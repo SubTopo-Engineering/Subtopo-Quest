@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tagline">خرائط GPS بدون إنترنت</string>
+    <string name="developed_by">تطوير: %1$s</string>
+    <string name="developer_name">فتحي النصراوي</string>
+    <string name="nav_map">الخريطة</string>
+    <string name="nav_points">النقاط</string>
+    <string name="nav_tracks">المسارات</string>
+    <string name="nav_tools">الأدوات</string>
+    <string name="nav_projects">المشاريع</string>
+    <string name="status_offline">بدون اتصال</string>
+    <string name="settings">الإعدادات</string>
+    <string name="language">اللغة</string>
+    <string name="about">حول التطبيق</string>
+    <string name="saved">تم حفظ الملف</string>
+    <string name="save_failed">فشل الحفظ</string>
+    <string name="pick_file">اختر ملفاً</string>
+</resources>

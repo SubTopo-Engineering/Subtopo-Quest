@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SubTopoGeo" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:statusBarColor">#0E2B2F</item>
+        <item name="android:navigationBarColor">#0E2B2F</item>
+    </style>
+</resources>

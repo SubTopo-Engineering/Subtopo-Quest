@@ -1,0 +1,21 @@
+PASS UTM (0,3) -> 500000,0  E=500000.000000 N=0.000000
+PASS UTM (45,3) N = k0*arc(45°)  N=4982950.4002 attendu=4982950.4002
+PASS Hémisphère S : N = 10 000 000 - 4 982 950.4  N=5017049.600
+PASS zone_of Tripoli 13.19E = 33
+PASS zone_of -180 = 1, 179.99 = 60, 180 = 60
+PASS Aller-retour UTM (18 000 pts, 60 zones)  écart max=1.56e-13° (~0.000 mm)
+PASS Concordance avec formule de Snyder (≤ 2 cm)  écart max=0.58 mm
+PASS Zone forcée (point à 4° du MC, aller-retour)  E=874209.8
+PASS Aller-retour ED50<->WGS84  écart max=9.31e-10
+PASS Décalage ED50->WGS84 à Tripoli plausible (100–250 m)  147.5 m
+PASS Vincenty distance 54 972.271 m  s=54972.2711
+PASS Vincenty azimut 306°52'05.37"  az=306.8681592°
+PASS Vincenty direct = inverse  3.7e-12 6.1e-12
+PASS Vincenty ≈ Haversine (<0.6 %)  655.022 km vs 653.713 km
+PASS Points identiques -> 0
+PASS Shoelace carré 1 km = 1 000 000 m²
+PASS Périmètre = 4000 m
+PASS Aire ellipsoïdale carré 1 km (≈ 1e6/k0²)  1000800.48 m² attendu≈1000800.48
+PASS Aire cellule 1°x1° vs intégration numérique  12108.1886 km² vs 12108.1886 km²
+
+ÉCHECS: 0

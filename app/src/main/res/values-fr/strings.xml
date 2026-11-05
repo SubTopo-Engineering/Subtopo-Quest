@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tagline">Cartographie GPS hors ligne</string>
+    <string name="developed_by">Développé par %1$s</string>
+    <string name="developer_name">Nasraoui Fathi</string>
+    <string name="nav_map">Carte</string>
+    <string name="nav_points">Points</string>
+    <string name="nav_tracks">Traces</string>
+    <string name="nav_tools">Outils</string>
+    <string name="nav_projects">Projets</string>
+    <string name="status_offline">Hors ligne</string>
+    <string name="settings">Paramètres</string>
+    <string name="language">Langue</string>
+    <string name="about">À propos</string>
+    <string name="saved">Fichier enregistré</string>
+    <string name="save_failed">Échec de l’enregistrement</string>
+    <string name="pick_file">Choisir un fichier</string>
+</resources>
